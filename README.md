@@ -14,15 +14,15 @@ It would be nice to implement that in the future:
 
 
 References and useful stuff:
-(this one is about quadtrees, but the post is great and can easily be extended to 3D) https://stackoverflow.com/questions/41946007/efficient-and-well-explained-implementation-of-a-quadtree-for-2d-collision-det
-https://github.com/brandonpelfrey/SimpleOctree/blob/master/Octree.h
-https://doc.magnum.graphics/magnum/examples-octree.html
-http://nomis80.org/code/octree.html
-https://www.youtube.com/watch?v=m0guE7804to
-https://github.com/mcserep/NetOctree
-https://www.gamedev.net/articles/programming/general-and-gameplay-programming/introduction-to-octrees-r3529/
-https://www.geeksforgeeks.org/octree-insertion-and-searching/
-https://imkaywu.github.io/blog/2015/11/voxel/
-https://github.com/gametutorials/tutorials/blob/master/OpenGL/Octree/Octree.cpp
-https://www.piko3d.net/tutorials/space-partitioning-tutorial-piko3ds-dynamic-octree/
-https://gameprogrammingpatterns.com/spatial-partition.html
+- (this one is about quadtrees, but the post is great and can easily be extended to 3D) https://stackoverflow.com/questions/41946007/efficient-and-well-explained-implementation-of-a-quadtree-for-2d-collision-det
+- https://github.com/brandonpelfrey/SimpleOctree/blob/master/Octree.h
+- https://doc.magnum.graphics/magnum/examples-octree.html
+- http://nomis80.org/code/octree.html
+- https://www.youtube.com/watch?v=m0guE7804to
+- https://github.com/mcserep/NetOctree
+- https://www.gamedev.net/articles/programming/general-and-gameplay-programming/introduction-to-octrees-r3529/
+- https://www.geeksforgeeks.org/octree-insertion-and-searching/
+- https://imkaywu.github.io/blog/2015/11/voxel/
+- https://github.com/gametutorials/tutorials/blob/master/OpenGL/Octree/Octree.cpp
+- https://www.piko3d.net/tutorials/space-partitioning-tutorial-piko3ds-dynamic-octree/
+- https://gameprogrammingpatterns.com/spatial-partition.html
